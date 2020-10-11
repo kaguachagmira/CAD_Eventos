@@ -2,8 +2,8 @@
 	position:fixed;
 	width:35px;
 	height:35px;
-	bottom:20px;
-	right:80px;
+	bottom:25px;
+	left:30px;
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
@@ -15,12 +15,13 @@
 .float:hover {
 	text-decoration: none;
 	color: #25d366;
-  background-color:#fff;
+ 	 background-color:#fff;
 }
 .mensaje{
+	position: absolute;
 	margin-top: 40px;
 	padding: 0px;
-	left: 0px;
+	left: -10px;
 	font-size: 10px;
 }
 
